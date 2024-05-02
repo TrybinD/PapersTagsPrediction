@@ -4,7 +4,7 @@ Repository for the NLP course project
 The main goal of this project is to learn how to predict tags and keywords from the text. This can be used to build search engines, recommendation systems, and so on.
 
 [Extreme Multi-label Text Classification for
-Habr posts]()
+Habr posts](https://github.com/TrybinD/PapersTagsPrediction/blob/main/PapersTagPrediction.pdf)
 
 ## Installation
 
